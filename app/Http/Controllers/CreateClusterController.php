@@ -20,8 +20,7 @@ class CreateClusterController extends Controller
             'version' => 'latest',
             'region' => 'us-east-1',
             'credentials' => [
-                'key' => 'AKIAZMPABDIT4J3YUQ6P',
-                'secret' => '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'
+               
             ],
         ]);
 
@@ -30,8 +29,7 @@ class CreateClusterController extends Controller
             'version' => 'latest',
             'region' => 'us-east-1',
             'credentials' => [
-                'key' => 'AKIAZMPABDIT4J3YUQ6P',
-                'secret' => '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'
+             
             ],
         ]);
 
@@ -40,8 +38,7 @@ class CreateClusterController extends Controller
             'version' => 'latest',
             'region' => 'us-east-1',
             'credentials' => [
-                'key' => 'AKIAZMPABDIT4J3YUQ6P',
-                'secret' => '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'
+                
             ],
         ]);
 
@@ -50,8 +47,7 @@ class CreateClusterController extends Controller
             'version' => '2015-02-01',
             'region' => 'us-east-1',
             'credentials' => [
-                'key' => 'AKIAZMPABDIT4J3YUQ6P',
-                'secret' => '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'
+                
             ]
         ]);
 
@@ -59,8 +55,7 @@ class CreateClusterController extends Controller
             'version' => '2015-12-01',
             'region' => 'us-east-1',
             'credentials' => [
-                'key' => 'AKIAZMPABDIT4J3YUQ6P',
-                'secret' => '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'
+               
             ]
         ]);
 
